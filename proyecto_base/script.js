@@ -53,7 +53,7 @@ document.addEventListener('DOMContentLoaded', function() {
             }
             
             // Simular envío (en una aplicación real se enviaría al servidor)
-            alert(`¡Gracias ${nombre}! Tu mensaje ha sido enviado. Te responderemos pronto a ${email}.`);
+            alert(`¡Gracias ${nombre}! Tu mensaje ha sido enviado correctamente. Te responderemos pronto a ${email}.`);
             
             // Limpiar formulario
             this.reset();
