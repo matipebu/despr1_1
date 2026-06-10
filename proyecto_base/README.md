@@ -93,7 +93,7 @@ Este proyecto es de uso educativo libre. Úsalo, modifícalo y aprende con él.
 
 ---
 
-**¡Feliz aprendizaje con Git! 🎉**
+**¡Feliz aprendizaje con Git! 🎉 ☠️ **
 
 > Recuerda: El mejor momento para hacer commit es ahora. El segundo mejor momento también es ahora.
 >
